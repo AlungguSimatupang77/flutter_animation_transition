@@ -20,4 +20,4 @@ Video simulasi menampilkan penggunaan aplikasi Flutter
 yang menerapkan animation dan page transition.
 
 ▶️ Link Video YouTube:  
-[https://youtu.be/ISI_DENGAN_LINK_KAMU](https://youtube.com/shorts/mYPGL1buBss?feature=share)
+https://youtube.com/shorts/mYPGL1buBss?feature=share
